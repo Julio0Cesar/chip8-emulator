@@ -6,6 +6,8 @@ Um emulador CHIP-8 completo e funcional escrito em C, utilizando SDL2 para rende
 ![C](https://img.shields.io/badge/Language-C-orange)
 ![SDL2](https://img.shields.io/badge/Library-SDL2-green)
 
+![Captura](games/Space%20Invaders.png)
+
 ## 📋 Sobre
 
 CHIP-8 é uma linguagem de programação interpretada, desenvolvida originalmente para computadores como o COSMAC VIP e o Telmac 1800. Este emulador implementa todas as 35 instruções do conjunto de instruções CHIP-8, permitindo executar jogos e programas clássicos.
