@@ -12,7 +12,7 @@
 #define TARGET_FPS 60        // FPS alvo
 
 // Mapeamento de teclas SDL2 para teclado do CHIP-8
-// Layout CHIP-8 original:
+// Layout do CHIP-8 original:
 // 1 2 3 C
 // 4 5 6 D
 // 7 8 9 E
