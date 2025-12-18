@@ -11,7 +11,7 @@
 #define TIMER_HZ 60          // Frequência dos temporizadores (60 Hz)
 #define TARGET_FPS 60        // FPS alvo
 
-// Mapeamento de teclas SDL2 para teclado CHIP-8
+// Mapeamento de teclas SDL2 para teclado do CHIP-8
 // Layout CHIP-8 original:
 // 1 2 3 C
 // 4 5 6 D
