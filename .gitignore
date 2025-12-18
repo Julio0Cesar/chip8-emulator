@@ -1,0 +1,27 @@
+# Arquivos de compilação
+build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Executável
+chip8
+chip8.exe
+
+# Arquivos de editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.tmp
+
